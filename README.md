@@ -1,6 +1,6 @@
 # IR From Bag-of-words to BERT and Beyond through Practical Experiments
 
-This is the official repository of "*IR From Bag-of-words to BERT and Beyond through Practical Experiments*", an Search Solutions 2022 full-day tutorial with [PyTerrier](https://github.com/terrier-org/pyterrier) search toolkit.
+This is the official repository of "*IR From Bag-of-words to BERT and Beyond through Practical Experiments*", a Search Solutions 2022 full-day tutorial with [PyTerrier](https://github.com/terrier-org/pyterrier) search toolkit.
 
 # About the tutorial
 
@@ -20,17 +20,17 @@ At the end of the tutorial, participants will be comfortable accessing classical
 
 * Part 1: Classical IR: indexing, retrieval and evaluation; Modern Retrieval Architectures: PyTerrier data model and operators, towards re-rankers and learning-to-rank
   - [Slides](slides/part1.pdf)
-  - [Notebook](notebooks/notebook1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook1.ipynb)
-  - [Notebook](notebooks/notebook2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook2.ipynb)
+  - [Notebook](notebooks/notebook1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorialtutorial/blob/main/notebooks/notebook1.ipynb)
+  - [Notebook](notebooks/notebook2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorialtutorial/blob/main/notebooks/notebook2.ipynb)
 * Part 2: Contemporary Retrieval Architectures: Neural re-rankers such as BERT, EPIC, ColBERT
   - [Slides](slides/part2.pdf)
-  - [OpenNIR and monoT5 Notebook](notebooks/notebook3.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook3.1.ipynb)
-  - [ColBERT Re-Ranker Notebook](notebooks/notebook3.2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook3.2.ipynb)
+  - [OpenNIR and monoT5 Notebook](notebooks/notebook3.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorialtutorial/blob/main/notebooks/notebook3.1.ipynb)
+  - [ColBERT Re-Ranker Notebook](notebooks/notebook3.2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorialtutorial/blob/main/notebooks/notebook3.2.ipynb)
 * Part 3: Recent Advances beyond the classical inverted index: neural inverted index augmentation, nearest neighbor search, dense retrieval
   - [Slides](slides/part3.pdf)
-  - [doc2query and DeepCT notebook](notebooks/notebook4.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook4.1.ipynb)
-  - [ANCE notebook](notebooks/notebook4.3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook4.2.ipynb)
-  - [ColBERT notebook](notebooks/notebook4.3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook4.3.ipynb)
+  - [doc2query and DeepCT notebook](notebooks/notebook4.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorialtutorial/blob/main/notebooks/notebook4.1.ipynb)
+  - [ANCE notebook](notebooks/notebook4.3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorialtutorial/blob/main/notebooks/notebook4.2.ipynb)
+  - [ColBERT notebook](notebooks/notebook4.3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorialtutorial/blob/main/notebooks/notebook4.3.ipynb)
 
 # Useful Links
 
@@ -50,7 +50,7 @@ If you make using of any of these slides, notebooks, or additional PyTerrier plu
 
 ```bibtex
 
-@inproceedings{ecir2021-tut-bow2b,
+@inproceedings{searchsolutions2022-tutorial-tut-bow2b,
   author = {MacAvaney, Sean and Macdonald, Craig and Tonellotto, Nicola},
   title = {IR From Bag-of-words to BERT and Beyond through Practical Experiments: An ECIR 2021 tutorial with PyTerrier and OpenNIR},
   booktitle = {Proceedings of the 43rd European Conference on Information Retrieval Research},
