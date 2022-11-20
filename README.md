@@ -20,17 +20,17 @@ At the end of the tutorial, participants will be comfortable accessing classical
 
 * Part 1: Classical IR: indexing, retrieval and evaluation; Modern Retrieval Architectures: PyTerrier data model and operators, towards re-rankers and learning-to-rank
   - [Slides](slides/part1.pdf)
-  - [Notebook 1](notebooks/notebook1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorialtutorial/blob/main/notebooks/notebook1.ipynb)
-  - [Notebook 2](notebooks/notebook2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorialtutorial/blob/main/notebooks/notebook2.ipynb)
+  - [Notebook 1](notebooks/notebook1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorial/blob/main/notebooks/notebook1.ipynb)
+  - [Notebook 2](notebooks/notebook2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorial/blob/main/notebooks/notebook2.ipynb)
 * Part 2: Contemporary Retrieval Architectures: Neural re-rankers such as BERT, EPIC, ColBERT
   - [Slides](slides/part2.pdf)
-  - [OpenNIR and monoT5 Notebook](notebooks/notebook3.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorialtutorial/blob/main/notebooks/notebook3.1.ipynb)
-  - [ColBERT Re-Ranker Notebook](notebooks/notebook3.2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorialtutorial/blob/main/notebooks/notebook3.2.ipynb)
+  - [OpenNIR and monoT5 Notebook](notebooks/notebook3.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorial/blob/main/notebooks/notebook3.1.ipynb)
+  - [ColBERT Re-Ranker Notebook](notebooks/notebook3.2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorial/blob/main/notebooks/notebook3.2.ipynb)
 * Part 3: Recent Advances beyond the classical inverted index: neural inverted index augmentation, nearest neighbor search, dense retrieval
   - [Slides](slides/part3.pdf)
-  - [doc2query and DeepCT notebook](notebooks/notebook4.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorialtutorial/blob/main/notebooks/notebook4.1.ipynb)
-  - [ANCE notebook](notebooks/notebook4.3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorialtutorial/blob/main/notebooks/notebook4.2.ipynb)
-  - [ColBERT notebook](notebooks/notebook4.3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorialtutorial/blob/main/notebooks/notebook4.3.ipynb)
+  - [doc2query and DeepCT notebook](notebooks/notebook4.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorial/blob/main/notebooks/notebook4.1.ipynb)
+  - [ANCE notebook](notebooks/notebook4.3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorial/blob/main/notebooks/notebook4.2.ipynb)
+  - [ColBERT notebook](notebooks/notebook4.3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorial/blob/main/notebooks/notebook4.3.ipynb)
 
 # Useful Links
 
