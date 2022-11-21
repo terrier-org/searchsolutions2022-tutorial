@@ -28,8 +28,8 @@ At the end of the tutorial, participants will be comfortable accessing classical
   - [ColBERT Re-Ranker Notebook](notebooks/notebook3.2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorial/blob/main/notebooks/notebook3.2.ipynb)
 * Part 3: Recent Advances beyond the classical inverted index: neural inverted index augmentation, nearest neighbor search, dense retrieval
   - [Slides](slides/part3.pdf)
-  - [ANCE notebook](notebooks/notebook4.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorial/blob/main/notebooks/notebook4_1.ipynb)
-  - [ColBERT notebook](notebooks/notebook4.2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorial/blob/main/notebooks/notebook4_2.ipynb)
+  - [ANCE notebook](notebooks/notebook4_1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorial/blob/main/notebooks/notebook4_1.ipynb)
+  - [ColBERT notebook](notebooks/notebook4_2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/searchsolutions2022-tutorial/blob/main/notebooks/notebook4_2.ipynb)
 
 # Useful Links
 
